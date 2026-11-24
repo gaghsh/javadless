@@ -24,7 +24,7 @@ const BK_CONFIG = {
   channelUrl: "https://t.me/BlueKnight_Net",
   sponsorName: "WhiteDNS",
   sponsorUrl: "https://t.me/whitedns",
-  publicPort: parseInt(process.env.PORT || process.env.SERVER_PORT || '3000', 10) || 3000,
+  publicPort: parseInt(process.env.PORT || process.env.SERVER_PORT || '8080', 10) || 8080,
   panelPath: "knight",
   dataDirHint: "/data",
   uuid: "",
