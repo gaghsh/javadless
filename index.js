@@ -11,9 +11,9 @@
 
 // ========== TELEGRAM BOT SETTINGS — EDIT THESE ==========
 // توکن ربات را از BotFather اینجا قرار بده
-const TELEGRAM_BOT_TOKEN = "توکن_ربات_اینجا";
+const TELEGRAM_BOT_TOKEN = "379350111:AAGZA9QXkRE1XTciBrgA5xk9r2SL6L6Mf7g";
 // آیدی عددی ادمین‌ها را داخل آرایه قرار بده؛ مثال: [123456789, 987654321]
-const TELEGRAM_ADMIN_IDS = [123456789];
+const TELEGRAM_ADMIN_IDS = [123648747];
 // ========================================================
 
 // ========== BLUE KNIGHT GATE — EDIT ME ==========
